@@ -1,5 +1,5 @@
 ### Hi there 👋
-It will be my short intro. I'm trying to finish it completely.
+It will be my short intro, and now it's partially completed.
 Thank you for viewing :)
 <p style="{color:red;}">------------------------------</p>
 
