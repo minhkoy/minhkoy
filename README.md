@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 # About me
 Hello, I'm Minh Tran Duc, currently I'm a student in Hanoi University of Science and Technology (or HUST shortly). <br>
-I prefer working remote at everywhere (including my country, Vietnam) or on-site in Singapore, Taiwan, North America Region, and European.
-But it's OK if I'm invited to work on-site or hybrid. <br>
 My main tech stack is ASP.NET Core, SQL Server (for backend). I'm still in my learning path for better frontend skill (I'm learning NextJS as well) <br>
 If you want to have conversation with me, please contact me via LinkedIn: https://www.linkedin.com/in/minh-tran-duc-364b55215/
 
