@@ -41,4 +41,4 @@ ASP.NET Core, Bootstrap, JQuery, ReactJS
 * In projects, sometimes I used SignalR for realtime tasks.
 
 ## Foreign Languages
-English - TOEIC 725 (02/2022)
+English - TOEIC 855 (02/2024)
